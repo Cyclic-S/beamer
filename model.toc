@@ -1,6 +1,0 @@
-\beamer@sectionintoc {1}{引言}{3}{0}{1}
-\beamer@sectionintoc {2}{标题1}{5}{0}{2}
-\beamer@sectionintoc {3}{标题2}{8}{0}{3}
-\beamer@sectionintoc {4}{标题3}{11}{0}{4}
-\beamer@sectionintoc {5}{最后}{14}{0}{5}
-\beamer@sectionintoc {6}{参考文献}{17}{0}{6}

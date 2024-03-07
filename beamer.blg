@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: model.aux
+The top-level auxiliary file: beamer.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 The style file: gbt7714-numerical.bst
 Reallocating 'name_of_file' (item size: 1) to 8 items.
@@ -19,7 +19,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: ref/ref.bib
 You've used 1 entry,
             5374 wiz_defined-function locations,
-            1051 strings with 7782 characters,
+            1051 strings with 7784 characters,
 and the built_in function-call counts, 4407 in all, are:
 = -- 160
 > -- 320
