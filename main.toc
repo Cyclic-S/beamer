@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{问题二}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{线性码的定义}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{线性码的生成矩阵}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{线性码的校验矩阵}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{线性码的伴随式译码方法}{7}{0}{1}
+\beamer@sectionintoc {2}{问题三}{8}{0}{2}
+\beamer@sectionintoc {3}{参考文献}{10}{0}{3}

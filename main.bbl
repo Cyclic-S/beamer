@@ -1,0 +1,39 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[杨碧水\ 等(2013)杨碧水, 梁浩森, 杜庆洋, 刘传勇,
+  郭晓丹, and 钱军]{杨碧水2013}
+杨碧水, 梁浩森, 杜庆洋, 等.
+\newblock
+  Viterbi软判决译码的改进方法及应用\allowbreak[C]//\allowbreak
+2013第一届中国指挥控制大会论文集.
+\newblock 2013: 2-7.
+
+\bibitem[Goldsmith(2005)]{Goldsmith_2005}
+GOLDSMITH A.
+\newblock Wireless communications\allowbreak[M].
+\newblock Cambridge University Press, 2005.
+
+\bibitem[陈(2021)]{ZHIHU2021}
+陈.
+\newblock 请大牛们帮忙解释一下什么是hard decision and soft
+  decision(硬软判决)?\allowbreak[EB/OL].
+\newblock 2021.
+\newblock \url{https://www.zhihu.com/question/22019466/answer/1967818641}.
+
+\bibitem[陈鲁生\ 等(2005)陈鲁生 and 沈世镒]{陈鲁生2005}
+陈鲁生, 沈世镒.
+\newblock 编码理论基础\allowbreak[M].
+\newblock 高等教育出版社, 2005.
+
+\end{thebibliography}
