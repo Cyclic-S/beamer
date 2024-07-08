@@ -1,2 +1,2 @@
 # beamer
-TeX-Beamer 模板
+TeX-Beamer Temple
